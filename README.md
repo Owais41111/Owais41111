@@ -168,15 +168,6 @@ const ejaz = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=tynab&count_private=true&show_icons=true&theme=dracula" />
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=tynab&theme=dracula" />
-</p>
-
----
-
 <div align="center">
 
 ### 💬 Let's Connect & Build Something Great
