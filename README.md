@@ -13,15 +13,15 @@
 <!-- Profile views + social badges -->
 <p>
   &nbsp;
-  <a href="https://ejaz-ahmed.me"><img src="https://github.com/user-attachments/assets/50d7b8d1-84f1-4d17-a011-380a7e25e982 "  height="20"/></a>
+  <a href="https://ejaz-ahmed.me"><img src="https://github.com/user-attachments/assets/50d7b8d1-84f1-4d17-a011-380a7e25e982 "  height="30"/></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/ejaz-ahmed-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ejaz-ahmed-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="30" /></a>
   &nbsp;
-  <a href="https://github.com/EjazAhmed-Dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/EjazAhmed-Dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="30" /></a>
   &nbsp;
-  <a href="https://sketchfab.com/Ejazahmed1"><img src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=flat&logo=sketchfab&logoColor=white" /></a>
+  <a href="https://sketchfab.com/Ejazahmed1"><img src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=flat&logo=sketchfab&logoColor=white" height="30" /></a>
   &nbsp;
-  <a href="mailto:ejaza2145@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ejaza2145@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"  height="30"/></a>
 </p>
 
 </div>
