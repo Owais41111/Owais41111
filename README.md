@@ -12,11 +12,9 @@
 
 <!-- Profile views + social badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=EjazAhmed-Dev&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://ejaz-ahmed.me/&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
   &nbsp;
-  <a href="https://www.linkedin.com/in/ejaz-ahmed-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://ejaz-ahmed.me"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://ejaz-ahmed.me"><img src="https://github.com/user-attachments/assets/50d7b8d1-84f1-4d17-a011-380a7e25e982&logo=Portfolio&logoColor=white" /></a>
   &nbsp;
   <a href="https://github.com/EjazAhmed-Dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
   &nbsp;
