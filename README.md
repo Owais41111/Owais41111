@@ -13,7 +13,13 @@
 <!-- Profile views + social badges -->
 <p>
   &nbsp;
-  <a href="https://ejaz-ahmed.me"><img src="https://github.com/user-attachments/assets/cdf36826-babd-40bd-9f2d-a760c423c5a7"  height="30" style="border-radius: 10px; background-color: white; padding: 10px;" /></a>
+  <a href="https://ejaz-ahmed.me">
+  <img 
+    src="https://github.com/user-attachments/assets/cdf36826-babd-40bd-9f2d-a760c423c5a7"
+    height="40"
+    style="border-radius: 10px; padding: 6px; background: white; display: inline-block;"
+  />
+</a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ejaz-ahmed-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="40" /></a>
   &nbsp;
