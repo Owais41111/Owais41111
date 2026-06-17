@@ -1,211 +1,194 @@
-# 👋 Hi, I’m **Ejaz Ahmed**
+<div align="center">
 
-**Full Stack Developer | Programmer | 3D Designer**  
-📍 *Karachi, Pakistan*  
-📫 **Email:** ejazahmed6070+resume@gmail.com  
-📱 **Phone:** +92 340 2515915  
-🔗 **LinkedIn:** *(Add your link)*  
-🔗 **Sketchfab:** *(Add your link)*  
+<!-- Animated banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ejaz%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%203D%20Designer&descColor=a0cfee&descAlignY=58&animation=fadeIn" width="100%"/>
 
----
+<!-- Typing animation -->
+<a href="https://ejaz-ahmed.me">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=React.js+%7C+Next.js+%7C+Tailwind+CSS;Expo+React+Native+%7C+Mobile+Dev;WordPress+%7C+Wix+Studio+%7C+CMS;Python+%7C+Automation+%7C+Backend;Blender+%7C+3D+Design+%7C+Visualization;Always+Learning+%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-# 👨‍💻 About Me
+<br/>
 
-I’m **Ejaz Ahmed**, a passionate **Full Stack Developer** and **3D Designer** based in Karachi, Pakistan.  
-I design, build, and deliver **modern**, **responsive**, and **functional** digital solutions for individuals, startups, and organizations.
+<!-- Profile views + social badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=EjazAhmed-Dev&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ejaz-ahmed-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://ejaz-ahmed.me"><img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/EjazAhmed-Dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://sketchfab.com/Ejazahmed1"><img src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=flat&logo=sketchfab&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:ejaza2145@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
-My vision is to turn ideas into scalable, real-world systems—whether it's a full-stack web app, an automation script, or a 3D visualization. I value:
-
-✔️ Clean & maintainable code  
-✔️ Performance & usability  
-✔️ Creativity backed by logic  
-✔️ Practical, real-world impact  
-
-> **“Good software sits at the intersection of logic, creativity, and discipline.”**  
-> *Building reliable systems where logic meets creativity.*
-
----
-
-# 🧠 What I Do
-
-My portfolio represents **professional-grade services and technical capabilities**, not random experiments.  
-I specialize in the following areas:
+</div>
 
 ---
 
-## 🌐 Full Stack Web Development
-- Building responsive and user-friendly web interfaces  
-- React-based frontend architecture  
-- Full application development from concept → deployment  
-- Performance optimization & cross-device compatibility  
+## 👨‍💻 About Me
+
+```js
+const ejaz = {
+  location    : "Karachi, Pakistan 🇵🇰",
+  role        : "Full Stack Developer & 3D Designer",
+  education   : "BSSE @ Sindh Madressatul Islam University (2023–2027)",
+  portfolio   : "https://ejaz-ahmed.me",
+  cv          : "https://ejaz-ahmed.me/cv",
+
+  stack: {
+    frontend  : ["React.js", "Next.js", "HTML", "CSS", "JavaScript", "Tailwind CSS"],
+    mobile    : ["Expo React Native"],
+    backend   : ["Python", "Supabase", "REST APIs", "C#", ".NET"],
+    cms       : ["WordPress", "Wix Studio", "Wix"],
+    tools     : ["Git", "GitHub", "Vercel", "Namecheap", "VS Code", "Arduino"],
+    design    : ["Blender", "3ds Max", "3D Modeling", "Low-Poly Art"],
+  },
+
+  currentlyBuilding : "Full-stack web apps + open-source projects",
+  openTo            : ["Freelance", "Internships", "Junior Roles", "Collaboration"],
+};
+```
 
 ---
 
-## ⚙️ Backend & Application Development
-- Backend development using **C#** and **.NET**  
-- REST API design & integration  
-- Scalable backend logic & clean architecture  
-- Desktop and application-based system development  
+## 🛠️ Tech Stack & Tools
+
+<!-- Frontend -->
+**Frontend & Mobile**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+**Backend & Database**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**CMS & Platforms**
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
-## 🐍 Python Automation & Data Solutions
-- Web scraping & data extraction  
-- Automation scripts to reduce manual workload  
-- Data processing (structured & unstructured)  
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=EjazAhmed-Dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EjazAhmed-Dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EjazAhmed-Dev&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
 
 ---
 
-## 🧩 Website Platforms
-- End-to-end WordPress development  
-- Professional websites using **Wix Studio**  
-- Portfolio, business, and informational websites  
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Tech | Links |
+|---|---|---|
+| **🌐 Personal Portfolio** | Next.js, Tailwind CSS, Supabase (mini-CMS) | [Live](https://ejaz-ahmed.me) · [GitHub](https://github.com/EjazAhmed-Dev) |
+| **📝 Quiz & Exam System** | C#, Windows Forms, .NET | [View](https://ejaz-ahmed.me) |
+| **📡 RFID Attendance** | Arduino, C++, Hardware | [Demo](https://l1nk.dev/ahw269t) |
+| **🔐 Wireless Security Tool** | Python, Networking | [Demo](https://l1nk.dev/5blgna0) |
+| **🏗️ Hiring Wikipedia** | HTML, CSS, Multi-page | [GitHub](https://github.com/EjazAhmed-Dev) |
+| **🎨 3D Models** | Blender, 3ds Max | [Sketchfab](https://sketchfab.com/Ejazahmed1) |
+
+</div>
 
 ---
 
-## 🎨 3D Designing & Visualization
-- 3D modeling & visualization using **Blender**  
-- Experience with **3ds Max**  
-- Low-poly models, architectural exteriors, and visual assets  
-- 3D assets for presentations & creative projects  
+## 💼 Experience
+
+```
+🏢  Full Stack Developer    ejaz-ahmed.me          Nov 2025 – Present   Karachi
+🏢  Full Stack Intern       DigiEnder               Aug – Oct 2025       Karachi
+🏢  Frontend Intern         SAMZ Technologies       2025
+🏢  Frontend Intern         Internee.pk             [Previous]
+🏢  Public Service Intern   Ombudsman Office        [Previous]
+```
 
 ---
 
-# 📁 Featured Projects
+## 🎓 Education & Certifications
 
-Here are some real, functional projects I've built:
+**📚 Sindh Madressatul Islam University** — BSSE Software Engineering *(2023–2027)* | CGPA: 2.8
 
-### 📝 **Quiz & Exam Management System**
-Desktop-based application using **C# (Windows Forms)** to manage:  
-✔️ Exams  
-✔️ Quizzes  
-✔️ User accounts  
-✔️ Results and scoring  
-Designed for usability and structured logic.
+<details>
+<summary>📜 View Certifications</summary>
 
----
+| Year | Certificate | Issuer |
+|------|------------|--------|
+| 2025 | Full Stack Development | DigiEnder |
+| 2025 | Agentic Edition | Google Developer Groups |
+| 2025 | MS Office, HTML, CSS, JS | Iqra Institute |
+| 2025 | Front-End Development Internship | SAMZ Technologies |
+| 2024 | 3D Modeling | Saylani Institute |
+| 2024 | HTML/CSS | KG Coding |
+| 2023 | C++ & C# | SMIU |
+| 2023 | HTML & CSS | YouTube Online Course |
 
-### 📡 **RFID Attendance System**
-Developed using **Arduino Uno (C++)**, this system tracks attendance using RFID technology.  
-A hardware + software integration focused on efficiency and accuracy.
+🔗 [View all certificates →](https://ejaz-ahmed.me/certificates)
 
----
-
-### 🌍 **Personal Portfolio Website**
-Built to showcase:  
-- Technical skills  
-- Software projects  
-- 3D design work  
-- Professional contact info  
-- Community involvement  
+</details>
 
 ---
 
-### 🕸️ **Web Scraping & Automation Tools**
-Python tools created to automate repetitive workflows and extract structured data.
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EjazAhmed-Dev&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
 
 ---
 
-### 🏗️ **3D Modeling Projects**
-Architectural exteriors, low-poly models, vehicles, and more—  
-All available on my **Sketchfab** profile.
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EjazAhmed-Dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
 
 ---
 
-# 🛠️ Technical Skills
+<div align="center">
 
-### 👨‍💻 **Programming & Development**
-- HTML, CSS, JavaScript  
-- React  
-- C#  
-- .NET  
-- Python  
-- REST APIs  
-- Backend systems & integration
+### 💬 Let's Connect & Build Something Great
 
-### 🎨 **3D & Creative Tools**
-- Blender (Low-poly & visualization)  
-- 3ds Max  
-- Architectural environment design  
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-ejaz--ahmed.me-0e75b6?style=for-the-badge)](https://ejaz-ahmed.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ejaz-ahmed-dev/)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ejaza2145@gmail.com)
 
-### 🧰 **Tools & Platforms**
-- Visual Studio / WinForms  
-- Arduino Uno  
-- WordPress  
-- Wix Studio  
-- Git & GitHub  
-- MS Office  
+<br/>
 
----
+*Open to freelance projects, internships, junior roles & collaborations*
 
-# 🎓 Education
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
-### **Bachelor of Science in Software Engineering**  
-📍 Sindh Madressatul Islam University  
-📅 *2023 – Present*  
-🎯 **Current CGPA:** 2.91
-
-### **Intermediate – General Science**  
-📍 Army Public School & College  
-📅 *2020 – 2022*  
-🧪 **63.33%**
-
-### **Matriculation – Science**  
-📍 Ismailia Youth Services School  
-📅 *2018 – 2019*  
-🧮 **72.33%**
-
----
-
-# 📜 Certifications
-
-- **HTML & CSS** – KG Coding (2024)  
-- **WordPress (Basic)** – Code Verse Solution (2023)  
-- **Python (Intro & Intermediate)** – DataCamp (2023)  
-
----
-
-# 💼 Experience & Internships
-
-### **Front-End Development Intern – Internee.pk**
-Worked on frontend design, UI structure, and responsive layouts in a real development environment.
-
-### **Public Service Intern – Ombudsman Office**
-Gained experience in documentation, coordination, and structured public-sector workflows.
-
----
-
-# 🌍 Community & Professional Growth
-
-I stay active in:  
-- Developer meetups  
-- Tech communities  
-- Personal learning & upskilling  
-- Collaborative and open-source-friendly environments  
-
-I believe in teamwork, continuous learning, and staying aligned with modern industry practices.
-
----
-
-# 🗣️ Languages
-- **English**  
-- **Urdu**
-
----
-
-# 🤝 Let’s Work Together
-
-Whether you're a:  
-✔️ Recruiter reviewing my profile  
-✔️ Startup or business seeking development support  
-✔️ Developer looking to collaborate  
-
-I’m always open to meaningful opportunities and conversations.
-
-📩 **Contact Me Anytime:**  
-**Email:** ejazahmed6070+resume@gmail.com  
-**LinkedIn:** *(Add link)*  
-
-> **Let’s build clean, reliable, and impactful solutions together.** 🚀  
-
-
+</div>
