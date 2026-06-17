@@ -11,27 +11,49 @@
 <br/>
 
 <!-- Profile views + social badges -->
-<p>
-  &nbsp;<a href="https://ejaz-ahmed.me">
-  <img src="https://github.com/user-attachments/assets/50d7b8d1-84f1-4d17-a011-380a7e25e982" alt="Ejaz Ahmed" height="20"/>
-    <span>Ejaz-Ahmed</span>
-</a>
-  <p align="center">
+<!-- HEADER LOGO / NAME -->
+<p align="center">
+  <a href="https://ejaz-ahmed.me" style="text-decoration: none; color: inherit;">
+    <img src="YOUR_LOGO_URL_HERE" height="70" style="vertical-align: middle;" />
+    <span style="font-size: 24px; font-weight: bold;">ejaz-ahmed.me</span>
+  </a>
+</p>
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+<p align="center">
 
 <a href="https://www.linkedin.com/in/ejaz-ahmed-dev/">
-  <img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img height="40"
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    onmouseover="this.src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white'"
+    onmouseout="this.src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'"
+  />
 </a>
 
 <a href="https://github.com/EjazAhmed-Dev">
-  <img height="40" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img height="40"
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    onmouseover="this.src='https://img.shields.io-badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white'"
+    onmouseout="this.src='https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white'"
+  />
 </a>
 
 <a href="https://sketchfab.com/Ejazahmed1">
-  <img height="40" src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white"/>
+  <img height="40"
+    src="https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white"
+    onmouseover="this.src='https://img.shields.io/badge/Sketchfab-0D9DFF?style=for-the-badge&logo=sketchfab&logoColor=white'"
+    onmouseout="this.src='https://img.shields.io/badge/Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white'"
+  />
 </a>
 
 <a href="mailto:ejaza2145@gmail.com">
-  <img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img height="40"
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    onmouseover="this.src='https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white'"
+    onmouseout="this.src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'"
+  />
 </a>
 
 </p>
