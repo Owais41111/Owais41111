@@ -14,6 +14,7 @@
 <p>
   &nbsp;<a href="https://ejaz-ahmed.me">
   <img src="https://github.com/user-attachments/assets/50d7b8d1-84f1-4d17-a011-380a7e25e982" alt="Ejaz Ahmed" height="20"/>
+    <span>Ejaz-Ahmed</span>
 </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ejaz-ahmed-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
