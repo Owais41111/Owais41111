@@ -10,16 +10,20 @@
 
 <br/>
 
-<!-- Profile views + social badges -->
 <!-- HEADER LOGO / NAME -->
 <p align="center">
   <a href="https://ejaz-ahmed.me" style="text-decoration: none; color: inherit;">
-    <img src="YOUR_LOGO_URL_HERE" height="70" style="vertical-align: middle;" />
+    <img src="https://raw.githubusercontent.com/EjazAhmed-Dev/EjazAhmed-Dev/main/assets/logo.png" height="70" style="vertical-align: middle;" />
     <span style="font-size: 24px; font-weight: bold;">ejaz-ahmed.me</span>
   </a>
 </p>
 
 <br/>
+
+<!-- Profile views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EjazAhmed-Dev&label=Profile+Views&color=00FFB2&style=flat" alt="profile views" />
+</p>
 
 <!-- SOCIAL BADGES -->
 <p align="center">
@@ -35,7 +39,7 @@
 <a href="https://github.com/EjazAhmed-Dev">
   <img height="40"
     src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    onmouseover="this.src='https://img.shields.io-badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white'"
+    onmouseover="this.src='https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white'"
     onmouseout="this.src='https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white'"
   />
 </a>
@@ -56,7 +60,6 @@
   />
 </a>
 
-</p>
 </p>
 
 </div>
