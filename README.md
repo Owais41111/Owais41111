@@ -12,7 +12,6 @@
 
 <!-- Profile views + social badges -->
 <p>
-  <img src="https://ejaz-ahmed.me/ghpvc/?username=EjazAhmed-Dev&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
   &nbsp;
   <a href="https://www.linkedin.com/in/ejaz-ahmed-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   &nbsp;
