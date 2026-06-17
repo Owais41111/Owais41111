@@ -15,7 +15,7 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/ejaz-ahmed-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   &nbsp;<a href="https://ejaz-ahmed.me">
-  <img src="https://github.com/user-attachments/assets/50d7b8d1-84f1-4d17-a011-380a7e25e982" alt="Ejaz Ahmed" height="40"/>
+  <img src="https://github.com/user-attachments/assets/50d7b8d1-84f1-4d17-a011-380a7e25e982" alt="Ejaz Ahmed" height="30"/>
 </a>
   &nbsp;
   <a href="https://github.com/EjazAhmed-Dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
