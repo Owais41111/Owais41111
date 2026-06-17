@@ -171,20 +171,8 @@ const ejaz = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=11" />
-</p>
-
-<p align="center">
   <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=tynab&count_private=true&show_icons=true&theme=dracula" />
   <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=tynab&theme=dracula" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tynab&theme=dracula&langs_count=25" />
-</p>
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=tynab&data=followers,repositories,stars,commits" />
 </p>
 
 ---
